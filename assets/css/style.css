@@ -72,7 +72,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header h1 a, #header h1 a:hover {
-  color: #fff;
+  color:#00ccff;
   line-height: 1;
   display: inline-block;
 }
@@ -427,7 +427,7 @@ section .container {
 }
 
 .skills .progress .skill .val {
-  float: right;
+  float: right 2s ;
   font-style: normal;
 }
 
@@ -438,7 +438,8 @@ section .container {
 .skills .progress-bar {
   width: 1px;
   height: 10px;
-  transition: .9s;
+  transition:0.9s;
+  
   background-color: #00ccff;
 }
 /*--------------------------------------------------------------
